@@ -1,11 +1,13 @@
 ## 💌손수만드는 쇼핑몰 SONSOO
+
 <img src="https://user-images.githubusercontent.com/52693172/112281592-928d9700-8cc9-11eb-8953-df4fc96fb158.JPG" width="600px"></img>
 
 ___
 ### 👩Team & Role🧑
->중앙정보처리학원에서 'JAVA 응용SW 양성과정'에서 진행한 프로젝트입니다.
->
-<img src="https://user-images.githubusercontent.com/52693172/112285210-696f0580-8ccd-11eb-83be-42d2db4291e.JPG" width="600px"></img>
+
+> 중앙정보처리학원에서 'JAVA 응용SW 양성과정'에서 진행한 프로젝트입니다.
+
+<img src="https://user-images.githubusercontent.com/52693172/112285875-1cd7fa00-8cce-11eb-93b1-ad34b0561cd5.JPG" width="600px"></img>
 <img src="https://user-images.githubusercontent.com/52693172/112285214-6b38c900-8ccd-11eb-81bb-24903153a120.JPG" width="600px"></img>
 <img src="https://user-images.githubusercontent.com/52693172/112285215-6b38c900-8ccd-11eb-8b23-9ba1f1e77cfa.JPG" width="600px"></img>
 
